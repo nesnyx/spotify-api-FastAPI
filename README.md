@@ -1,7 +1,7 @@
 # Spotify api using FastAPI
 
 ##### A simple implementation Python FastAPI for the Spotify Web API
-![Tests](https://github.com/plamere/spotipy/workflows/Tests/badge.svg?branch=master) [![Documentation Status](https://readthedocs.org/projects/spotipy/badge/?version=latest)](https://spotipy.readthedocs.io/en/latest/?badge=latest)
+![Tests](https://github.com/plamere/spotipy/workflows/Tests/badge.svg?branch=master)
 
 ## Documentation
 Spotify API Documentation is online at https://developer.spotify.com/documentation/web-api
