@@ -10,7 +10,7 @@ Spotify API Documentation is online at https://developer.spotify.com/documentati
 You can install from <b>requirements.txt</b> file for packages
 
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 or you can also activate a venv or Virtual Enviroment
 
